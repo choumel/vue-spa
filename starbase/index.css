@@ -1,0 +1,12 @@
+body {
+    background: #263238;
+}
+
+#app{
+    font-family: 'Avenir', Arial, Helvetica, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -mow-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 3.5rem;
+}
